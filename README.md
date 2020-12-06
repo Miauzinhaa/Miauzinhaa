@@ -11,6 +11,8 @@ Hallo, mein Name ist Miauzinha, ich lebe in Europa / Schweiz 🌍. Ich studiere 
 
 [![Twitter Badge](https://img.shields.io/badge/-@ghxstianne-2ccce9?style=flat-square&labelColor=2ccce9&logo=twitter&logoColor=white&link=https://twitter.com/ghxstianne)](https://twitter.com/ghxstianne) 
 
+![](https://komarev.com/ghpvc/?username=Miauzinhaa&color=000000)
+
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ddmm1oeq1o0skmwl292cko9ea?si=Uz2VZ2HzRbKB3MEQIg35iA
 )
