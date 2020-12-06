@@ -1,6 +1,6 @@
 #                                                        **Miauzinha**
 
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/778144794416906270/785199849061875772/ianne_vida.gif"/>
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/778144794416906270/785200535057596416/iannemor.gif"/>
 
 Hallo, mein Name ist Miauzinha, ich lebe in Europa / Schweiz 🌍. Ich studiere sehr gerne Naturwissenschaften und beabsichtige in Zukunft, einen Abschluss in Verhaltenswissenschaften zu machen. 🧪
 
@@ -20,7 +20,7 @@ Hallo, mein Name ist Miauzinha, ich lebe in Europa / Schweiz 🌍. Ich studiere 
 <img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/778144794416906270/785195775197970472/ianne_linda.gif" />
 
 
-****
+**Sometimes, when I wake up in the morning, I'm crying. The dream I must have had, I can never remember. But the feeling that I missed something remains for some time after I wake up.**
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Miauzinhaa)](https://github.com/anuraghazra/github-readme-stats)
